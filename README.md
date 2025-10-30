@@ -1,7 +1,7 @@
 <h1 align="center">💙 Fedora 43 Theme for Windows 11 🖥️</h1>
 
 <p align="center">
-  <img src="./_img/fedora43-theme-preview.png" alt="Fedora 43 Theme Preview">
+  <img src="https://i.ibb.co/dhNgZty/fedora43.png" alt="Fedora 43 Theme Preview">
 </p>
 
 <p align="center">
